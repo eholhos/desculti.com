@@ -16,9 +16,9 @@
 
             <div class="column large-full hero-content__text">
                 <h1>
-                    Worship is an act <br/>
-                    of war against the <br />
-                    enemy of our hearts
+                    WORSHIP IS AN ACT <br/>
+                    OF WAR AGAINST THE <br />
+                    ENEMY OF OUR HEARTS
                 </h1>
 
                 <div class="hero-content__buttons">
